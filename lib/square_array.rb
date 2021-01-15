@@ -4,7 +4,7 @@ def square_array(array)
   
 while count < array.length 
 puts new_array<< array[count] ** 2 
-end
 count += 1 
+end
 new_array
 end
